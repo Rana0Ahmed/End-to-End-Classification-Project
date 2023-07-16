@@ -9,12 +9,12 @@ of the US Census Bureau. Each image is labeled with the digit it represents.
 
 ### The project contains the following :
 
-- Binary Classification.
-- performance measures.
-  - Precision/Recall Tradeoff.
-  - The ROC Curve (receiver operating characteristic).
-- Multiclass Classification.
-- Error Analysis.
-- Multilabel Classification.
-- Multioutput Classification.
+- **Binary Classification**.
+- **performance measures**.
+  - **Precision/Recall Tradeoff**.
+  - **The ROC Curve (receiver operating characteristic)**.
+- **Multiclass Classification**.
+- **Error Analysis**.
+- **Multilabel Classification**.
+- **Multioutput Classification**.
 
